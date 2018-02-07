@@ -1,0 +1,7 @@
+# exportPattern("^[[:alpha:]]+")
+export("permbootstrap")
+export("decision")
+export("decision.permbs")
+export("summary.permbs")
+export("plot.permbs")
+exportClasses("permbs")
